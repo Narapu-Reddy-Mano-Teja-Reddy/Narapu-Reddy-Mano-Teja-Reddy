@@ -21,65 +21,140 @@ Building innovative solutions, creating impactful products, and turning ideas in
 
 🚀 Software Developer • Entrepreneur • Builder • Dreamer
 
-I am a passionate technology enthusiast who believes that innovation begins with curiosity and grows through persistence. My journey has been shaped by challenges, continuous learning, and the determination to create something meaningful through technology.
+<h1 align="center">👋 Hi, I'm Mano Teja Reddy</h1>
 
-From writing my first lines of code to leading projects, participating in hackathons, and building digital products, I have always been driven by a desire to solve problems and create value. I enjoy transforming ideas into impactful solutions and turning imagination into reality through technology.
+<h3 align="center">
+🚀 Software Developer • Entrepreneur • AI Enthusiast • Product Builder
+</h3>
 
-💡 I am deeply interested in building products that make people's lives easier, businesses stronger, and communities more connected. Whether it's software development, artificial intelligence, web technologies, or product innovation, I constantly seek opportunities to learn, grow, and create.
+<p align="center">
+Building innovative products, solving real-world problems, and transforming ideas into impactful digital experiences.
+</p>
+
+<p align="center">
+<a href="https://www.manotejareddy.xyz">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Narapu-Reddy-Mano-Teja-Reddy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Narapu-Reddy-Mano-Teja-Reddy&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Developer;Entrepreneur;AI+Enthusiast;Hackathon+Team+Lead;Full+Stack+Developer;Building+Products+That+Matter;Dreaming+Big+%7C+Building+Bigger;Turning+Ideas+Into+Reality+🚀" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I am a passionate software developer and entrepreneur who believes technology should solve real-world problems and create meaningful impact.
+
+My journey is driven by curiosity, innovation, and the ambition to build products that empower people and businesses.
+
+I enjoy transforming ideas into scalable digital solutions, exploring artificial intelligence, leading projects, and continuously pushing myself to learn beyond my limits.
 
 🌍 Based in India
 
 💻 Software Developer
 
-🤖 AI & Technology Enthusiast
+🤖 AI Enthusiast
 
-🚀 Startup & Product Builder
+🚀 Entrepreneur
 
-🎯 Problem Solver
+🏆 Hackathon Team Lead
 
-🏆 Hackathon Team Leader
+🎯 Product Builder
 
-📚 Lifelong Learner
+---
 
-✨ What Defines Me
+## 🛠️ Tech Stack
 
-🔥 Ambition to build something meaningful
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mysql,mongodb,html,css,tailwind,git,github,vscode,figma,postman&perline=8" />
+</p>
 
-🧠 Curiosity to learn something new every day
+---
 
-💪 Courage to take the difficult path
+## 📊 GitHub Analytics
 
-🚀 Passion to transform ideas into reality
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narapu-Reddy-Mano-Teja-Reddy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🌟 Determination to continuously improve
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narapu-Reddy-Mano-Teja-Reddy&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-🎯 Current Focus
+---
 
-💻 Full Stack Development
+## 🔥 Contribution Streak
 
-🤖 Artificial Intelligence & Machine Learning
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Narapu-Reddy-Mano-Teja-Reddy&theme=tokyonight&hide_border=true" />
+</p>
 
-🌐 Modern Web Technologies
+---
 
-📈 Product Development
+## 🏆 GitHub Trophies
 
-🏗️ System Design & Scalable Applications
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Narapu-Reddy-Mano-Teja-Reddy&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
+</p>
 
-🎨 User Experience & Digital Innovation
+---
 
-💬 My Philosophy
+## 🎯 Current Focus
 
-I believe success is not defined by where you start but by how consistently you move forward. Every challenge is an opportunity to learn, every failure is a lesson, and every achievement is a stepping stone toward a greater vision.
+🔹 Artificial Intelligence & Machine Learning
 
-✨ Vision
+🔹 Full Stack Development
 
-To create innovative solutions that inspire change, empower people, and leave a lasting impact through technology and entrepreneurship.
+🔹 Product Development
 
-🌟 Personal Motto
+🔹 Startup Building
 
-"Dream Beyond Limits. Learn Without End. Build With Purpose."
+🔹 System Design
 
-🔗 Website: www.manotejareddy.xyz
+🔹 Cloud Technologies
+
+---
+
+## 💡 Developer Mindset
+
+```text
+Problem Solving      ████████████████████ 100%
+Learning New Skills  ████████████████████ 100%
+Building Products    ███████████████████░ 95%
+Taking Risks         ███████████████████░ 95%
+Leadership           ███████████████████░ 95%
+Giving Up            ░░░░░░░░░░░░░░░░░░░ 0%
+```
+
+---
+
+## 🌟 Vision
+
+Dream Beyond Limits.
+
+Build With Purpose.
+
+Lead Through Innovation.
+
+My goal is to create technology that empowers people, solves meaningful problems, and leaves a lasting impact through innovation and entrepreneurship.
+
+---
+
+<h3 align="center">
+🚀 Building Tomorrow, One Idea at a Time
+</h3>
 
 📍 India
 
