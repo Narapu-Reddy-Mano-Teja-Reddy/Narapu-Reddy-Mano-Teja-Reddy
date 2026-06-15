@@ -1,16 +1,3 @@
-<h1 align="center">👋 Hi, I'm Mano Teja Reddy</h1>
-
-<h3 align="center">
-🚀 Software Developer • Entrepreneur • AI Enthusiast
-</h3>
-
-<p align="center">
-Building innovative solutions, creating impactful products, and turning ideas into reality through technology.
-</p>
-
-<p align="center">
-  <a href="https://www.manotejareddy.xyz">🌐 Portfolio</a> •
-  <a href="https://github.com/Narapu-Reddy-Mano-Teja-Reddy">💻 GitHub</a>
 </p>👋 Hello, I'm Mano Teja Reddy
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Entrepreneur;Full+Stack+Developer;AI+Enthusiast;Building+The+Future+With+Technology" />
