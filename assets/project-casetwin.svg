@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="p1-t">
+  <title id="p1-t">CaseTwin: Multimodal Agentic Clinical Decision Support System</title>
+  <defs>
+    <linearGradient id="p1-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#050816"/>
+    </linearGradient>
+    <radialGradient id="p1-glow" cx="82%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#1D4ED8" stop-opacity=".7"/><stop offset="1" stop-color="#0B1120" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p1-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#38BDF8" stroke-opacity=".08"/>
+    </pattern>
+    <filter id="p1-glowf" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="p1-clip"><rect width="1200" height="370" rx="18"/></clipPath>
+    <linearGradient id="p1-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset=".45" stop-color="#93C5FD"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .p1-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .p1-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .p1-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .p1-in { animation: p1-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .p1-d1 { animation-delay: .15s; } .p1-d2 { animation-delay: .4s; }
+    .p1-chip { animation: p1-chip .7s cubic-bezier(.34,1.56,.64,1) both; }
+    @keyframes p1-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .p1-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: p1-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards; }
+    @keyframes p1-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes p1-draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p1-in, .p1-chip { animation: none; } .p1-draw { animation: none; stroke-dashoffset: 0; } }
+    .p1-trace { stroke-dasharray: 564 3136; stroke-dashoffset: 3700; animation: p1-trace 7s linear infinite; }
+    @keyframes p1-trace { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p1-trace { display: none; } }
+  </style>
+  <g clip-path="url(#p1-clip)">
+    <rect width="1200" height="370" fill="url(#p1-bg)"/>
+    <rect x="720" width="480" height="370" fill="url(#p1-grid)"/>
+    <rect width="1200" height="370" fill="url(#p1-glow)"/>
+    <g class="p1-in p1-d1">
+      <text class="p1-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#38BDF8">01 · MULTIMODAL AI · CLINICAL DECISION SUPPORT PROTOTYPE</text>
+      <text class="p1-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F8FAFC">CaseTwin</text>
+      <text class="p1-sans" x="56" y="166" font-size="17" fill="#94A3B8">AI-assisted retrieval of similar clinical cases and specialist referral workflows.</text>
+      <text class="p1-mono" x="56" y="200" font-size="12.5" fill="#BAE6FD"><tspan fill="#38BDF8">BUILT ›</tspan> MedGemma clinical context + MedSigLIP image embeddings + Qdrant vector search</text>
+      <line class="p1-draw" x1="56" y1="226" x2="680" y2="226" stroke="#38BDF8" stroke-opacity=".3"/>
+      <g transform="translate(56 266)"><text class="p1-serif" font-size="32" font-weight="300" fill="#F8FAFC">Multimodal</text><text class="p1-sans" y="24" font-size="12.5" fill="#94A3B8">medical images + clinical notes</text></g>
+      <g transform="translate(266 266)"><text class="p1-serif" font-size="32" font-weight="300" fill="#F8FAFC">Vector Search</text><text class="p1-sans" y="24" font-size="12.5" fill="#94A3B8">Qdrant cosine similarity</text></g>
+      <g transform="translate(486 266)"><text class="p1-serif" font-size="32" font-weight="300" fill="#F8FAFC">Agentic AI</text><text class="p1-sans" y="24" font-size="12.5" fill="#94A3B8">CrewAI workflow support</text></g>
+      <g class="p1-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="86" height="26" rx="13" fill="#0F172A" stroke="#38BDF8" stroke-opacity=".35"/><text class="p1-mono" x="99" y="331" text-anchor="middle" font-size="11.5" fill="#BAE6FD">MedGemma</text></g>
+      <g class="p1-chip" style="animation-delay:1.12s"><rect x="150" y="314" width="82" height="26" rx="13" fill="#0F172A" stroke="#38BDF8" stroke-opacity=".35"/><text class="p1-mono" x="191" y="331" text-anchor="middle" font-size="11.5" fill="#BAE6FD">MedSigLIP</text></g>
+      <g class="p1-chip" style="animation-delay:1.24s"><rect x="240" y="314" width="65" height="26" rx="13" fill="#0F172A" stroke="#38BDF8" stroke-opacity=".35"/><text class="p1-mono" x="272" y="331" text-anchor="middle" font-size="11.5" fill="#BAE6FD">Qdrant</text></g>
+      <g class="p1-chip" style="animation-delay:1.36s"><rect x="313" y="314" width="68" height="26" rx="13" fill="#0F172A" stroke="#38BDF8" stroke-opacity=".35"/><text class="p1-mono" x="347" y="331" text-anchor="middle" font-size="11.5" fill="#BAE6FD">FastAPI</text></g>
+      <g class="p1-chip" style="animation-delay:1.48s"><rect x="389" y="314" width="58" height="26" rx="13" fill="#0F172A" stroke="#38BDF8" stroke-opacity=".35"/><text class="p1-mono" x="418" y="331" text-anchor="middle" font-size="11.5" fill="#BAE6FD">React</text></g>
+      <g class="p1-chip" style="animation-delay:1.60s"><rect x="455" y="314" width="65" height="26" rx="13" fill="#0F172A" stroke="#38BDF8" stroke-opacity=".35"/><text class="p1-mono" x="487" y="331" text-anchor="middle" font-size="11.5" fill="#BAE6FD">CrewAI</text></g>
+      <g class="p1-chip" style="animation-delay:1.72s"><rect x="528" y="314" width="130" height="26" rx="13" fill="#0F172A" stroke="#38BDF8" stroke-opacity=".35"/><text class="p1-mono" x="593" y="331" text-anchor="middle" font-size="11.5" fill="#BAE6FD">Google Cloud GCP</text></g>
+    </g>
+    <g class="p1-in p1-d2"><g transform="translate(0 35)">
+      <g transform="translate(860 40)">
+        <!-- Medical image representation -->
+        <rect x="-40" y="16" width="160" height="210" rx="12" fill="#0F172A" stroke="#38BDF8" stroke-opacity=".25" transform="rotate(-7 40 120)"/>
+        <rect x="-10" y="10" width="160" height="210" rx="12" fill="#132038" stroke="#38BDF8" stroke-opacity=".35" transform="rotate(-2 70 115)"/>
+        <g transform="rotate(3 120 110)">
+          <rect x="40" y="4" width="160" height="214" rx="12" fill="#1E293B" stroke="#38BDF8" stroke-opacity=".55"/>
+          <!-- Medical X-ray / Clinical Notes simulation -->
+          <g fill="#94A3B8" fill-opacity=".3">
+            <rect x="60" y="28" width="120" height="6" rx="3"/>
+            <rect x="60" y="46" width="95" height="6" rx="3"/>
+            <rect x="60" y="80" width="120" height="6" rx="3"/>
+            <rect x="60" y="116" width="105" height="6" rx="3"/>
+            <rect x="60" y="152" width="120" height="6" rx="3"/>
+            <rect x="60" y="170" width="75" height="6" rx="3"/>
+          </g>
+          <!-- Vector match highlight bars -->
+          <rect x="60" y="64" width="112" height="6" rx="3" fill="#38BDF8" filter="url(#p1-glowf)"/>
+          <rect x="60" y="134" width="85" height="6" rx="3" fill="#60A5FA" filter="url(#p1-glowf)"/>
+          <!-- Scanning light bar -->
+          <rect x="42" y="6" width="156" height="42" fill="#38BDF8" fill-opacity=".12">
+            <animate attributeName="y" values="6;170;6" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1; .45 0 .55 1"/>
+          </rect>
+        </g>
+        <!-- Similar Case Retrieval popup card -->
+        <g transform="translate(100 166)">
+          <rect width="215" height="58" rx="10" fill="#0B1120" fill-opacity=".95" stroke="#38BDF8" stroke-opacity=".45"/>
+          <circle cx="16" cy="20" r="4" fill="#34D399"/>
+          <text class="p1-mono" x="26" y="23" font-size="10.5" fill="#F8FAFC">Top Case Match (94.2%)</text>
+          <text class="p1-mono" x="14" y="44" font-size="10" fill="#38BDF8">Specialist: Neurology Referral</text>
+        </g>
+      </g>
+    </g></g>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#38BDF8" stroke-opacity=".2"/>
+    <rect class="p1-trace" style="animation-delay:0.0s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p1-trace)" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+</svg>
